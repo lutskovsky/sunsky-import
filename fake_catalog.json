@@ -1,0 +1,21 @@
+{"id":0,"name":"SunSky catalog","subcategories":[
+	{"id": 1,"name": "Category 1","subcategories":[
+		{"id": 4,"name": "Category 4","subcategories":[]},
+                {"id": 5,"name": "Category 5","subcategories":[]},
+                {"id": 6,"name": "Category 6","subcategories":[]},
+                {"id": 7,"name": "Category 7","subcategories":[]}
+	]},
+        {"id": 2,"name": "Category","subcategories":[
+                {"id": 8,"name": "Category 8","subcategories":[]},
+                {"id": 9,"name": "Category 9","subcategories":[]},
+                {"id": 10,"name": "Category 10","subcategories":[]},
+                {"id": 11,"name": "Category 11","subcategories":[]}
+	]},
+        {"id": 3,"name": "Category","subcategories":[
+                {"id": 12,"name": "Category 12","subcategories":[]},
+                {"id": 13,"name": "Category 13","subcategories":[]},
+                {"id": 14,"name": "Category 14","subcategories":[]},
+                {"id": 15,"name": "Category 15","subcategories":[]}	
+	]}
+	
+],"timestamp":1459429717}
